@@ -1,0 +1,44 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  a {
+    color: #f00;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #900;
+  }
+  
+  /* Otros detalles morados */
+  
+  .morado {
+    color: #f00;
+  }
+  
+  .fondo-morado {
+    background-color: #f00;
+  }
+  
+  /* Índices */
+  
+  .indice {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .indice li {
+    display: inline-block;
+    margin-right: 10px;
+  }
